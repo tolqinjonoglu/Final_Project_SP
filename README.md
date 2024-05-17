@@ -1,6 +1,6 @@
 # Final_Project_SP
 
-FInal Project System Programming
+Final Project System Programming
 
 # How to run
 
